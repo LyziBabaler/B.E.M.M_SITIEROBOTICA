@@ -42,15 +42,31 @@ font-style: italic;
 .sobrenós{
 background-color: #ffffff;
 display: flex;
-}
-
+} 
 
 .titulo{
 	font-style: italic;
 	font-size: 50px;
+	text-align: right;
 }
 
 .paragrafo{
 	font-size: 25px;
     width: 50%;
+    text-align: right;
+    padding-left: 450px ;
+}
+
+.circulo1{
+    position: absolute;
+    left: 70px;
+    top: 300px;
+	width: 7%;
+    height: 15%;
+
+}
+
+.bruna{
+	font-size: 21px;
+	
 }
