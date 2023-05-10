@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+<link rel="stylesheet" href="style.css.css">
+
+</head>
+<header class="cabecalho">
+	<a href=""><p class="linknos">Sobre nós</p></a>
+	<h1 class="nos-cabe">B.E.M.M</h1>
+	<img class="robob" src="robobranco.png" alt="Essa não essa imagem sumiu!">
+</header>
+<body class="corpo">
+	<h2 class="titulo-c">Projetos</h2>
+	<p class="paragrafos">Bom nós da B.E.M.M estaremos utilizando uma placa de arduino para criarmos diversos projetos, isto serve para podermos aprender como funcionam certos componentes, desde um led, um resistor, um botão, fios, entre diversas outras coisas.</p>
+	<p class="paragrafos">Agora você verá alguns projetos que nossa equipe esteve trabalhando</p>
+		<p class="titulo-sa">Semaforo simples</p>
+	<img class="arduino-semaforo" src="arduino-semaforo.png" alt="Essa não essa imagem sumiu!">
+	<p class="paragrafo-p">Aqui nós temos um semaforo simples, no qual ele inicia no verde, pós 3s ele vai pro amarelo 5s depois vai pro vermelho e 3s depois ele faz o loop novamente.</p>
+</body>
+</html>
