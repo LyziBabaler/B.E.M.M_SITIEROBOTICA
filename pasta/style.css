@@ -47,7 +47,7 @@ display: flex;
 .titulo{
 	font-style: italic;
 	font-size: 50px;
-	text-align: right;
+	text-align: center;
 }
 
 .paragrafo{
@@ -66,4 +66,3 @@ padding-bottom: 30px ;
 display: flex;
 margin-top: -150px;
 }
-
