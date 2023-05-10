@@ -19,7 +19,7 @@
 <section class="sobrenós"  style="text-align: right;">
 	<div>
 	<h2 class="titulo">Sobre B.E.M.M </h2>
-	<p class="paragrafo"> Nós somos um grupo de estudantes formados por 4 integrantes, Bruna, Elizye, Mariana e Miguel, Como ficamos sem ideia de nome pegamos nossas iniciais e criamos o "B.E.M.M" </p>
+	<p class="paragrafo"> Nós somos um grupo de estudantes formados por 4 integrantes, Bruna, Elyziee, Mariana e Miguel, Como ficamos sem ideia de nome pegamos nossas iniciais e criamos o "B.E.M.M" </p>
 	<p class="paragrafo"> Aqui neste site iremos postar aparetos eletrônicos que criamos em sala de aula, sendo desde algo como um semáforo com o arduino, até coisas mais interessantes como dois semáforos com arduino!</p>
 	</div>
 	<img class="robozin" src="laptop.png" alt="Nossa essa imagem sumiu!">
@@ -28,7 +28,7 @@
 
 <div style="text-align: left;">
 	<li class="pessoal">Bruna</li>
-	<li class="pessoal">Elyzie</li>
+	<li class="pessoal">Elyziee</li>
 	<li class="pessoal">Mariana</li>
 	<li class="pessoal">Miguel</li>
 	</div>
