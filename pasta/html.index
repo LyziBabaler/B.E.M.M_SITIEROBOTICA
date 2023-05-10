@@ -9,7 +9,7 @@
 </head>
 <header class="cabeçalho">
     <li class="itens">Sobre nós </li>
-<li class="itens"> Projetos </li>
+    <li class="itens"> Projetos </li>
 	<ul class="cabeçalho-lista">
 	<h1 class="logo"> B.E.M.M </h1>
 </ul>
@@ -27,10 +27,11 @@
 <h3 class="pessoal-titulo">Integrantes ali em cima :D</h3>
 
 <div style="text-align: left;">
-	<li class="pessoal">Bruna</li>
+<a href="https://github.com/">	<li class="pessoal">Bruna</li></a>	
 	<li class="pessoal">Elyziee</li>
 	<li class="pessoal">Mariana</li>
 	<li class="pessoal">Miguel</li>
-	</div>
+</div>
 </body>
+
 </html>
