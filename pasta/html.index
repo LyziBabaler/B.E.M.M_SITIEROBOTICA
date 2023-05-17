@@ -27,11 +27,9 @@
 <h3 class="pessoal-titulo">Integrantes à baixo :D</h3>
 
 <div style="text-align: left;">
-	<li class="pessoal">Bruna</li>
-	<li class="pessoal">Elyziee</li>
-	<li class="pessoal">Mariana</li>
-	<li class="pessoal">Miguel</li>
-	</div>
+	<p aling="left"> Mariana <\p>
+	<p aling="left"> Elyziee <\p>
+	<p aling="left"> Bruna <\p>
 	<div>
 		<footer class="rodape">
 		<h7 class="rodapenos">B.E.M.M</h7>
