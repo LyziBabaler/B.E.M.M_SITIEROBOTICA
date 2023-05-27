@@ -6,76 +6,20 @@ style.css
 }
 
 .cabeçalho{
-	background-color: #191970	;
+	background-color: #ffffff	;
 	color: #ffffff;
 	display: flex;
 	justify-content: space-around;
-	padding: 25px 0;
+	align-items: center;
+	padding: 24px 0;
 }
 
-.logo{
+.cabeçalho-imagem{
+	width: 20%;
+}
+
+.cabeçalho-lista-item{
 	display: inline-block;
-margin: 0 16px;
-font-size: 38px;
-font-style: initial;
-font-style: italic;
-}
-
-.itens{
-	 display: inline-block;
-     font-size: 25px;
-	 justify-content: space-around;
-
-}
-
-.robo{
-	width: 13%;
-	text-align: right;
-}
-
-
-.robozin{
-	width: 35%;
-	text-align: right;
-}
-
-.sobrenós{
-background-color: #ffffff;
-display: flex;
-} 
-
-.titulo{
-	font-style: italic;
-	font-size: 50px;
-	text-align: center;
-}
-
-.paragrafo{
-	font-size: 25px;
-    width: 50%;
-    text-align: right;
-    padding-left: 450px ;
-}
-.pessoal-titulo{
-font-size: 30px;
-}
-
-.pessoal{
-font-size: 45px;
-padding-bottom: 100px ;
-display: inline;
-margin-right: 20px;
-}
-.rodapenos{
-padding-left: 600px;	
-font-size: 40px;
-font-style: italic;
-
-}
-
-.rodape{
-	padding: 15px 10px;
-	background-color: #191970;
-	color: #ffffff;
-
+	margin: 0 16px;
+	font-size: 24px;
 }
