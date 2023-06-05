@@ -2,12 +2,30 @@ header{
     background-color: #00084b;
 }
 .logo-foto{
- width: 50%;
- height: 50%;
+ text-align: left;
+ width: 90%;
+ height: 90%;
 }
 .lista-cabecalho{
- 
+    padding: 1em;
+    justify-content: space-around;  
+    display: flex;
 }
 .lista-cabecalho-item{
+ font-family: 'Poppins', sans-serif;
  color: #ffffff
+}
+.meiolo{
+    background-image:  linear-gradient( #00084b,#000000);
+}
+.titulo-meiolo{
+    
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-style: oblique;
+}
+.item-meiolo{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
 }
