@@ -3,8 +3,8 @@ header{
 }
 .logo-foto{
  text-align: left;
- width: 90%;
- height: 90%;
+ width: 30%;
+ height: 30%;
 }
 .lista-cabecalho{
     padding: 1em;
@@ -22,7 +22,6 @@ header{
     
     text-align: center;
     color: #ffe600;
-    font-family: 'Poppins', sans-serif;
 }
 .item-meiolo{
     width: 80%;
@@ -36,7 +35,6 @@ header{
 .projetos{
     color: #ffe600;
     text-align: center;
-    font-family: 'Poppins', sans-serif;
 }
 .expli-prj{
     color: #ffffff;
@@ -45,13 +43,34 @@ header{
     width: 80%;
 }
 .titulo-semaforo{
-    font-family: 'Poppins', sans-serif;
     text-align: center;
     color: #ffe600
     
 }
 .img-semaforo{
-    width: 20%;
-    height: 20%;
+    margin-left: 140px;
+    width: 30%;
+    height: 30%;
     color: #ffffff;
 }
+.semaforo-texto{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+.titulo-A{
+    text-align: center;
+    color: #ffe600;
+}
+.img-A{
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
