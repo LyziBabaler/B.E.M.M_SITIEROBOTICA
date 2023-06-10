@@ -1,0 +1,61 @@
+header{
+	background-color: #00084b ;
+}
+.logo-bem{
+	text-align: left;
+	width: 30%;
+	height: 30%;
+}
+.link-item{
+	color: #ffffff;
+	font-size: 40px;
+}
+.link{
+	padding: 1em;
+    justify-content: space-around;  
+    display: flex;
+    color: #ffffff;
+}
+.meio{
+	background-image:  linear-gradient( #00084b,#000000);
+	font-family: 'Poppins', sans-serif;
+	padding-left: 15px;
+}
+.titulo-meio{
+	text-align: center;
+	color: #ffe600;
+}
+.texto-meio{
+	color: #ffffff;
+	padding-top: 15px;
+	padding-left: 15px;
+	width: 90%;
+}
+.texto-meio2{
+	color: #ffffff;
+	padding-top: 30px;
+	padding-left: 15px;
+	width: 90%;
+	padding-bottom: 30px;
+}
+.titulo-integrantes{
+	color: #ffe600;
+	text-align: center;
+
+}
+.foto-nossa{
+	color: #ffffff;
+	justify-content: center;
+}
+.integrantes-texto{
+	color: #ffffff;
+	text-align: center;
+	width: 90%;
+}
+.rodape{
+	background-color: #000000;
+}
+.texto-rodape{
+	text-align: center;
+	color: #ffffff;
+}
