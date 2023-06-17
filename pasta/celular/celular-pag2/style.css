@@ -43,9 +43,27 @@ header{
 	text-align: center;
 
 }
-.foto-nossa{
+.miguel{
 	color: #ffffff;
 	padding-left: 320px;
+}
+.mariana{
+	padding-left: 320px;
+	color: #ffffff;
+	height: 25%;
+	width: 25%;
+}
+.elyziee{
+	padding-left: 320px;
+	color: #ffffff;
+	width: 25%;
+	height: 25%; 
+}
+.bruna{
+	padding-left: 320px;
+	color: #ffffff;
+	height: 25%;
+	width: 25%;
 }
 .integrantes-texto{
 	color: #ffffff;
@@ -57,5 +75,9 @@ header{
 }
 .texto-rodape{
 	text-align: center;
-	color: #ffffff;
+	color: #ffe600;
+}
+.area-p{
+	width: 70%;
+	height: 70%;
 }
