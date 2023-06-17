@@ -17,10 +17,6 @@
 	<p class="paragrafos">Bom nós da B.E.M.M estaremos utilizando uma placa de arduino para criarmos diversos projetos, isto serve para podermos aprender como funcionam certos componentes, desde um led, um resistor, um botão, fios, entre diversas outras coisas.</p>
 	<p class="paragrafos">Agora você verá alguns projetos que nossa equipe esteve trabalhando</p>
 		<p class="titulo-sa">Semaforo simples</p>
-	<img class="arduino-semaforo" src="arduino-semaforo.png" alt="Essa não essa imagem sumiu!">
-	<img class="buzzer-passivo" src="buzzer-passivo.png" alt="Essa não essa imagem sumiu!">
-	<img class="semáforo-tinkercad" src="arduino-semáforo-tinkercad2.png" alt="Essa não essa imagem sumiu!">
-	<img class="super-máquina" src="super-máquina.png" alt="Essa não essa imagem sumiu!">
 	<p class="paragrafo-p">Aqui nós temos um semaforo simples, no qual ele inicia no verde, pós 3s ele vai pro amarelo 5s depois vai pro vermelho e 3s depois ele faz o loop novamente.</p>
 </body>
 </html>
