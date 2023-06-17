@@ -3,8 +3,8 @@ header{
 }
 .logo-foto{
  text-align: left;
- width: 30%;
- height: 30%;
+ width: 40%;
+ height: 40%;
 }
 .lista-cabecalho{
     padding: 1em;
@@ -59,18 +59,43 @@ header{
     text-align: center;
     margin: 15px;
 }
-.titulo-A{
+.titulo-buzzer{
     text-align: center;
     color: #ffe600;
 }
-.img-A{
+.img-buzzer{
+    margin-left: 140px;
+    width: 30%;
+    height: 30%;
     color: #ffffff;
 }
-
-
-
-
-
-
-
-
+.buzzer-texto{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 15px;    
+}
+.titulo-s-maquina{
+    text-align: center;
+    color: #ffe600;
+}
+.img-sm{
+    margin-left: 140px;
+    width: 30%;
+    height: 30%;
+    color: #ffffff;
+}
+.sm-texto{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.area-est{
+    padding-left: 80px;
+    padding-top: 20px;
+    color: #ffffff;
+    width: 20%;
+    height: 50%;
+}
