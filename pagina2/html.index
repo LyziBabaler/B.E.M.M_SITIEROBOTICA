@@ -18,8 +18,10 @@
 	<p class="paragrafos">Agora você verá alguns projetos que nossa equipe esteve trabalhando</p>
 		<p class="titulo-sa">Semaforo simples</p>
         <img class="arduino-semaforo" scr="arduino-semaforo.png" alt="Essa não essa imagem sumiu!">
-        <img class="buzzer-passivo" scr="buzzer-passivo.png" alt="Essa não essa imagem sumiu!">
-        <img class="semáforo-tinkercad" scr="semáforo-tinkercad" alt=" Essa não essa imagem sumiu">
-	<p class="paragrafo-p">Aqui nós temos um semaforo simples, no qual ele inicia no verde, pós 3s ele vai pro amarelo 5s depois vai pro vermelho e 3s depois ele faz o loop novamente.</p>
+        <img class="Buzzer passivo" scr="Buzzer passivo.jpeg" alt="Essa não essa imagem sumiu!">
+        <img class="Semáforo 1" scr="Semáforo 1.jpg" alt=" Essa não essa imagem sumiu">
+        <img class="Semáforo" scr="Semáforo.jpg" alt="Essa não essa imagem sumiu">
+        <img class="Super Máquina" scr="Super Máquina.jpeg" alt="Essa não essa imagem sumiu">
+ <p class="paragrafo-p">Aqui nós temos um semaforo simples, no qual ele inicia no verde, pós 3s ele vai pro amarelo 5s depois vai pro vermelho e 3s depois ele faz o loop novamente.</p>
 </body>
 </html>
