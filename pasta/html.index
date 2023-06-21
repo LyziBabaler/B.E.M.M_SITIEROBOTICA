@@ -1,40 +1,43 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-<link rel="stylesheet" type="text/css" href="style.css">
-
-</head>
-<header class="cabeçalho">
-
-<a href=""><li class="itens"> Projetos </li></a>
-	<ul class="cabeçalho-lista">
-	<h1 class="logo"> B.E.M.M </h1>
-</ul>
-  <img class="robo" src="robofoda.png" alt="Nossa essa imagem sumiu!">
-</header>
-<body>
-<section class="sobrenós"  style="text-align: right;">
-	<div>
-	<h2 class="titulo">Sobre B.E.M </h2>
-	<p class="paragrafo"> Nós somos um grupo de estudantes formados por 3 integrantes, Bruna, Elyziee, Mariana, Como ficamos sem ideia de nome pegamos nossas iniciais e criamos o "B.E.M" </p>
-	<p class="paragrafo"> Aqui neste site iremos postar aparetos eletrônicos que criamos em sala de aula, sendo desde algo como um semáforo com o arduino, até coisas mais interessantes como dois semáforos com arduino!</p>
-	</div>
-	<img class="robozin" src="laptop.png" alt="Nossa essa imagem sumiu!">
-</section>
-<h3 class="pessoal-titulo">Integrantes à baixo :D</h3>
-
-<div style="text-align: left;">
-	<p aling="left"> Mariana
-	<p aling="left"> Elyziee 
-	<p aling="left"> Bruna 
-	
-	<div>
-		<footer class="rodape">
-		<h7 class="rodapenos">B.E.M</h7>
-	</footer>
-	</div>
-</body>
+<html lang="en">
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-compartible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>B.M.E</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">   
+  </head>
+   <body>
+    <header>
+        <ul class="lista-cabecalho">
+            <img class="logo-foto" src="bme.png" alt="Logo B.M.E">
+          <a href="file:///tmp/guest-z9jzow/%C3%81rea%20de%20Trabalho/2/pag2.html"> <img class="area-est" src="pfp.png" alt="Area estudantes"></a>
+        </ul>
+    </header>
+  <section class="meiolo">
+    <h1 class="titulo-meiolo">Sobre nós</h1>
+    <p class="item-meiolo">Nós somos um grupo de estudantes formados por 3 integrantes, Bruna, Elyziee, Mariana, Como ficamos sem ideia de nome pegamos nossas iniciais e criamos o "B.E.M" </p>
+    <p class="item-meiolo">qui neste site iremos postar aparetos eletrônicos que criamos em sala de aula, sendo desde algo como um semáforo com o arduino, até coisas mais interessantes como dois semáforos com arduino!</p>  
+  </section>
+  <section class="meiolo-2">
+    <h1 class="projetos">Projetos!</h1>
+    <p class="expli-prj"> Bom, nós do BEM, estamos estudando a como progamarmos em uma placa arduino, e agora abaixo você verá exemplos de projetos que criamos até o momento</p>
+    <h2 class="titulo-semaforo">Sistema de um semaforo</h2>  
+    <img class="img-semaforo" src="semaforo.jpg" alt="Foto de um semaforo">
+    <p class="semaforo-texto"> Como podemos ali em cima, temos um sistema de um semaforo simples utilizando uma placa arduino, sua função é a mesma que um semaforo.</p>
+   <h3 class="titulo-buzzer">Sistema Buzzer</h3>
+   <img class="img-buzzer" src="buzzer.jpg" alt="foto de um buzzer">
+   <p class="buzzer-texto">Ali em cima temos um sistema de um buzzer utilizando uma placa arduino, sua função é fazer sons, e nosso grupo escolheu usar a música tema do "Super Mario Bros".</p>
+   <h4 class="titulo-s-maquina">Sistema Super Maquina</h4>
+   <img class="img-sm" src="super-maquina.jpg" alt="foto de uma super maquina">
+   <p class="sm-texto">Como vimos na foto a cima utilizando uma placa arduinos nós programamos a Super maquina, sua função é nada mais nada menos que...Ser uma super maquina(quem poderia crer)</p>
+  </section>
+   </body>
 </html>
