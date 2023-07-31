@@ -17,8 +17,9 @@
 	padding: 24px 0;
 }
 
-.cabeçalho-imagem{
-	width: 20%;
+.cabecalho-imagem{
+	width: 10%;
+	height: 10%;
 }
 
 .cabeçalho-lista-item{
@@ -49,6 +50,26 @@
 }
 
 .escola-imagem{
-	width: 120px
+	width: 120px;
+	height: 120px;
+}
+.bru{
+	width: 120px;
+	height: 120px;
 }
 
+.ely{
+	width: 120px;
+	height: 120px;
+}
+
+.mar{
+	width: 120px;
+	height: 120px;
+}
+
+.mig{
+	width: 120px;
+	height: 120px;
+
+}
